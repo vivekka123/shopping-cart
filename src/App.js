@@ -6,7 +6,7 @@ import UserCartComponent from './component/UserCartComponent';
 import IPhone from './Images/violetiphone.png';
 import OnePlus from './Images/oneplus.png';
 import Oppo from './Images/oppoa.jpg';
-import RedmiNote from './Images/redminote9.jpg';
+import RedmiNote from  './Images/redminote9.jpg';
 
 
 function App() {
